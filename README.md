@@ -29,10 +29,10 @@ El análisis exploratorio de datos (EDA) reveló `insights` cruciales para enten
 
 Basado en el análisis, se proponen las siguientes acciones para optimizar las campañas de email de "Aura Glow":
 
-1.  **Estrategia de Envío Inteligente**: Enviar correos de venta los **lunes** y correos con contenido para generar `engagement` los **jueves**.
+1.  **Estrategia de Envío Inteligente:** Enviar correos de venta los **lunes** y correos con contenido para generar `engagement` los **jueves**.
 2.  **Mejorar los Correos:** Optimizar elementos como líneas de asunto y CTA para aumentar los clics y, por ende, las ventas.
-3.  **Personalizar Contenido**: Adaptar el contenido de los correos según los intereses de cada segmento ('Tech Enthusiasts', 'Foodies', etc.).
-4.  **Atacar a cada Segmento por su Comportamiento**:
+3.  **Personalizar Contenido:** Adaptar el contenido de los correos según los intereses de cada segmento ('Tech Enthusiasts', 'Foodies', etc.).
+4.  **Atacar a cada Segmento por su Comportamiento:**
     * **`Engaged`**: Ofrecer promociones y accesos exclusivos.
     * **Receptivos**: Enviar reseñas de productos y testimonios para animarlos a comprar.
     * **Inactivos**: Lanzar campañas de reactivación o eliminarlos de la base de datos para mejorar las métricas.
@@ -49,5 +49,7 @@ Basado en el análisis, se proponen las siguientes acciones para optimizar las c
 
 ### 📂 Estructura del Repositorio
 
-* `ETL.ipynb`: Código para la limpieza y transformación de datos.
-* `EDA.ipynb`: Código para el análisis exploratorio de datos y visualizaciones.
+El proyecto se organiza en dos carpetas principales para mantener el flujo de trabajo ordenado y reproducible:
+
+* `data/`: Contiene el conjunto de datos limpio y procesado (`marketing_campaign_email_clean.csv`).
+* `notebooks/`: Almacena los `notebooks` de Jupyter (`ETL.ipynb` y `EDA.ipynb`) que contienen el código de análisis.
