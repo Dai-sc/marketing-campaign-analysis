@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 Introducción al Proyecto
+### 🌟 Introducción al proyecto
 
 La empresa de e-commerce "Aura Glow" ha notado una caída en la efectividad de sus campañas de email. A pesar de los envíos constantes, la tasa de conversión y el `engagement` han disminuido.
 
@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo analizar a fondo los datos de las campañas pa
 
 ---
 
-### 🔍 Hallazgos Clave
+### 🔍 Hallazgos clave
 
 El análisis exploratorio de datos (EDA) reveló `insights` cruciales para entender el comportamiento de la audiencia:
 
@@ -25,7 +25,7 @@ El análisis exploratorio de datos (EDA) reveló `insights` cruciales para enten
 
 ---
 
-### 🚀 Recomendaciones Estratégicas
+### 🚀 Recomendaciones estratégicas
 
 Basado en el análisis, se proponen las siguientes acciones para optimizar las campañas de email de "Aura Glow":
 
@@ -39,7 +39,7 @@ Basado en el análisis, se proponen las siguientes acciones para optimizar las c
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y herramientas
 
 * **Lenguaje**: Python
 * **Librerías**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn` (`Sklearn`)
@@ -47,7 +47,7 @@ Basado en el análisis, se proponen las siguientes acciones para optimizar las c
 
 ---
 
-### 📂 Estructura del Repositorio
+### 📂 Estructura del repositorio
 
 El proyecto se organiza en dos carpetas principales para mantener el flujo de trabajo ordenado y reproducible:
 
